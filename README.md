@@ -18,18 +18,18 @@ The IP is set to be 192.168.0.30
 It can be changed in the arduino code.
 
 ----
-The webpage:
+### The webpage:
 
 <img src="https://github.com/hanmmmmm/ESP32_wireless_plantpot_monitor/blob/main/esp32imgs/webpage.png" alt="esp32 web" title="esp32 web" width="750"/>
 
 <br>
 
-Each parts on breadboard:
+### Each parts on breadboard:
 
 <img src="https://github.com/hanmmmmm/ESP32_wireless_plantpot_monitor/blob/main/esp32imgs/hardware.png" alt="parts" title="parts" width="750"/>
 
 <br>
 
-Solder together:
+### Solder together:
 
 <img src="https://github.com/hanmmmmm/ESP32_wireless_plantpot_monitor/blob/main/esp32imgs/hardware2.png" alt="assemb" title="assemb" width="750"/>

@@ -16,3 +16,13 @@ The MCU connects to WiFi, so any phone and computers on the same WiFi can access
 The IP is set to be 192.168.0.30
 
 It can be changed in the arduino code.
+
+<img src="https://github.com/hanmmmmm/ESP32_wireless_plantpot_monitor/blob/main/esp32imgs/webpage.png" alt="esp32 web" title="esp32 web" width="750"/>
+
+<br>
+
+<img src="https://github.com/hanmmmmm/ESP32_wireless_plantpot_monitor/blob/main/esp32imgs/hardware.png" alt="parts" title="parts" width="750"/>
+
+<br>
+
+<img src="https://github.com/hanmmmmm/ESP32_wireless_plantpot_monitor/blob/main/esp32imgs/hardware2.png" alt="assemb" title="assemb" width="750"/>
